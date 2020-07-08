@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 20px;
+}
+.container1 {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+} 
+.square1{
+    background-color: blueviolet;
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+}
+.square2 {
+    background-color:green;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    margin: 0 50px;
+}
+.circle {
+    background-color:skyblue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+.container2{
+    margin-top: 25px;
+    width: 100%;
+    border: 5px dotted black;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.square3{
+    background-color: rgb(238, 238, 176);
+    height: 200px;
+    width: 100%;
+    box-shadow: 5px 10px black;
+}
+
+.friends{
+    width: 50%;
+    height: ;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    margin: 25px auto;
+    padding: 100px;
+    box-shadow: 5px 10px black
+}
+h1 {
+    width: 100%;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+  }
